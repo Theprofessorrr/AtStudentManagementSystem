@@ -6,7 +6,7 @@ const Home = () => {
 		<div className="home-container">
 			<div className="welcome-banner">
 				<h2>Welcome to the Student Management System</h2>
-				<p className="subtitle">Your platform for managing students efficiently</p>
+				<p className="subtitle">Your platform for managing students attendance efficiently</p>
 			</div>
 			<div className="features-section">
 				<h3>Key Features:</h3>
